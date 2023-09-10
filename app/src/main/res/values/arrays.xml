@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dzongkhag_array">
+        <item>Thimphu</item>
+        <item>Paro</item>
+        <item>Punakha</item>
+
+    </string-array>
+
+    <string-array name="gewog_array">
+        <item>Gangtey</item>
+        <item>Haa</item>
+        <item>Dochula</item>
+    </string-array>
+
+    <string-array name="country_array">
+        <item>Bhutan</item>
+        <item>India</item>
+        <item>United States</item>
+    </string-array>
+</resources>
